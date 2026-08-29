@@ -1,0 +1,9 @@
+# Program1B
+# Andrew Stribling
+# Purpose: This program calculates the area of a triangle
+base = int(input("Enter the base: "))
+height = int(input("Enter height: "))
+area = int(.5 * base * height)
+# width = int(input("Enter width: "))
+
+print("The area is ", area, " square units.")
